@@ -1,5 +1,5 @@
 # Hi there 👋
-## Who i am?
+## Who am I?
 
 ```py
 from Universe.Earth import Human
